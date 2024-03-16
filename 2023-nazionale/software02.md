@@ -1,5 +1,5 @@
 # OliCyber.IT 2023 - Competizione Nazionale
-
+1
 ## [binary] Guesser master (32 risoluzioni)
 
 La challenge è un normale binario linkato dinamicamente. All'esecuzione il binario chiede un input, lo confronta con dei dati segreti apparentemente generati casualmente ad ogni esecuzione. Se le stringhe sono uguali, il binario stampa la flag, altrimenti chiude la connessione.
