@@ -1,4 +1,4 @@
-# OliCyber.IT 2023 - Competizione Nazionale
+# OliCyber.IT 20232 - Competizione Nazionale
 
 ## [binary] Guesser master (32 risoluzioni)
 
